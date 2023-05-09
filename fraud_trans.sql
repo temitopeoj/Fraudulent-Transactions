@@ -14,6 +14,7 @@ select * from fraud_trans;
 
 select type, count('type')
 from fraud_trans
+where isfraud = 1
 group by type
 order by count('type') desc
 limit 1;
