@@ -7,6 +7,6 @@ Thousands of transactions are carried out in the banks on a daily basis which is
 
 In this bank transaction data, I explore the dataset, analyze the pattern and characteristics of legitimate and fraudulent transactions.
 
-Practical Skills
+Practice Skills
 1. PostgreSQL Database - Data Query Tool
 2. Microsoft Excel
